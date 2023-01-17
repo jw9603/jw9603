@@ -10,6 +10,13 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwjw9603)](https://solved.ac/jwjw9603)
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-007ACC?style=for-the-badge&logo=Python)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-46a2f1?style=for-the-badge&logo=Pytorch&logoColor=ffffff)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![KERAS](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![CONDA](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![PANDAS](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+
+(https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
