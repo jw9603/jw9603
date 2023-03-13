@@ -10,7 +10,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwjw9603)](https://solved.ac/jwjw9603)
 
-Frequently used libraries and languages
+Frequently used libraries and languages <br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-007ACC?style=for-the-badge&logo=Python)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-46a2f1?style=for-the-badge&logo=Pytorch&logoColor=ffffff)
@@ -23,7 +23,7 @@ Frequently used libraries and languages
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-Frequently used programs
+Frequently used programs <br>
 ![MAC OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=whi)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
