@@ -3,6 +3,7 @@
 <span> 💌 Contact : jwjw9603@g.skku.edu </span> <br>
 <span> 🔎 I am interested in Natural Language Processing and Commonsense Reasoning for the Next of QnA System. </span> <br>
 <span> :rage: 할 수 있다!!!!!</span> <br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjw9603&count_bg=%2379C83D&title_bg=%23555555&icon=cliqz.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw9603&show_icons=true&theme=material-palenight)
 
@@ -31,4 +32,4 @@ Frequently used programs <br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjw9603&count_bg=%2379C83D&title_bg=%23555555&icon=cliqz.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
