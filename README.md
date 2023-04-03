@@ -15,7 +15,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jw9603&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwjw9603)](https://solved.ac/jwjw9603)
-[![jiwon's github activity graph](https://activity-graph.herokuapp.com/graph?username=soyeon207&theme=monokai)](https://github.com/jw9603/github-readme-activity-graph)
+
+[![정지원's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jw9603)](https://github.com/jw9603/github-readme-activity-graph)
 
 Frequently used libraries and languages <br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
