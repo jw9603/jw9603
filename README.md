@@ -4,11 +4,8 @@
 <span> 🔎 I am interested in Natural Language Processing and Commonsense Reasoning for the Next of QnA System. </span> <br>
 <span> :rage: 할 수 있다!!!!!</span> <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjw9603&count_bg=%2379C83D&title_bg=%23555555&icon=cliqz.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!-- [![gusye1234's github stats](https://github-readme-stats.vercel.app/api?username=gusye1234)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Gustavo,;)](https://git.io/typing-svg)   -->
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gusye1234">
-</p> -->
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there👋,+this+is+Gustavo.;"></p>
+<p align="center">
 ![jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw9603&show_icons=true&theme=material-palenight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jw9603&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
