@@ -1,5 +1,5 @@
-<!-- ### Hi there 👋 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hi%20There&fontSize=100)
+### Hi there 👋
+
 <span> 💌 Contact : jwjw9603@g.skku.edu </span> <br>
 <span> 🔎 I am interested in Natural Language Processing and Commonsense Reasoning for the Next of QnA System. </span> <br>
 <span> :rage: 할 수 있다!!!!!</span> <br>
@@ -7,7 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunTaeHahm&count_bg=%230C1117&title_bg=%230C1117&icon=cloudsmith.svg&icon_color=%23FFFFFF&title=Hello%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hi%20There&fontSize=100)
-  
+
   
   
 <!-- ![jiwon's GitHub stats](https://zgithub-readme-stats.vercel.app/api?username=jw9603&show_icons=true&theme=material-palenight) -->
@@ -15,6 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jw9603&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwjw9603)](https://solved.ac/jwjw9603)
+[![jiwon's github activity graph](https://activity-graph.herokuapp.com/graph?username=soyeon207&theme=monokai)](https://github.com/jw9603/github-readme-activity-graph)
 
 Frequently used libraries and languages <br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
