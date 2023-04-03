@@ -6,9 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjw9603&count_bg=%2379C83D&title_bg=%23555555&icon=cliqz.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunTaeHahm&count_bg=%230C1117&title_bg=%230C1117&icon=cloudsmith.svg&icon_color=%23FFFFFF&title=Hello%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there👋,+this+is+Jiwon Jeong.;"></p>
-<p align="center">
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hi%20There&fontSize=100)
   
   
   
