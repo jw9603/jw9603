@@ -18,7 +18,7 @@
 
 [![정지원's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jw9603)](https://github.com/jw9603/github-readme-activity-graph)
 
-Frequently used libraries and languages <br>
+## 🛠 Tech Stack 🛠
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-007ACC?style=for-the-badge&logo=Python)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-46a2f1?style=for-the-badge&logo=Pytorch&logoColor=ffffff)
@@ -32,7 +32,7 @@ Frequently used libraries and languages <br>
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-Frequently used programs <br>
+## Frequently used programs 
 ![MAC OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=whi)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
