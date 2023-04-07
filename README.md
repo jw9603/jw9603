@@ -9,8 +9,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jiwon%20Jeong&desc=I%20want%20to%20be%20an%20AI%20Researcher&descSize=30&descAlign=65&fontSize=90&fontAlign=50&fontAlignY=45&animation=twinkling)
 
   
-  
-![jiwon's GitHub stats](https://zgithub-readme-stats.vercel.app/api?username=jw9603&show_icons=true&theme=material-palenight)
+![jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw9603&show_icons=true&theme=material-palenight)  
+<!-- ![jiwon's GitHub stats](https://zgithub-readme-stats.vercel.app/api?username=jw9603&show_icons=true&theme=material-palenight) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jw9603&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
