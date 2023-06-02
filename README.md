@@ -16,7 +16,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwjw9603)](https://solved.ac/jwjw9603)
 
-[![정지원's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jw9603)](https://github.com/jw9603/github-readme-activity-graph)
+<!-- [![정지원's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jw9603)](https://github.com/jw9603/github-readme-activity-graph) -->
 
 ## 🛠 Tech Stack 🛠
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
