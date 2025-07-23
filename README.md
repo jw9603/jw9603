@@ -16,7 +16,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjw9603)](https://solved.ac/jjw9603)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jw9603)](https://solved.ac/jw9603)
 
 <!-- [![정지원's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jw9603)](https://github.com/jw9603/github-readme-activity-graph) -->
 
