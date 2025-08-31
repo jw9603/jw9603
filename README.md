@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <span> 💌 Contact : jwjw9603@gmail.com </span> <br>
-<span> 🔎 I am interested in Natural Language Processing, Commonsense Reasoning and Logical Reasoning for the Next of QnA System. </span> <br>
+<span> 🔎 I have conducted research in Natural Language Processing, Commonsense Reasoning, and Logical Reasoning for Question Answering Systems.
+
+<span> 🌱 I am currently interested in the fundamental learning mechanisms of Large Language Models (LLMs) and advancing reasoning models to improve their reliability and interpretability. </span> <br>
 <span> :rage: 할 수 있다!!!</span> <br>
 
 
