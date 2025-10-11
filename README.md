@@ -4,7 +4,8 @@
 <span> 🔎 I have conducted research in Natural Language Processing, Commonsense Reasoning, and Logical Reasoning for Question Answering Systems.
 
 <span> 🌱 I am currently interested in the fundamental learning mechanisms of Large Language Models (LLMs), advancing reasoning models to improve their reliability and interpretability, and exploring AI agents that leverage these models for more autonomous and effective problem-solving. </span> <br>
-<span> :rage: 할 수 있다!!!</span> <br>
+
+<!-- <span> :rage: 할 수 있다!!!</span> <br> -->
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jiwon%20Jeong&desc=I%20want%20to%20be%20an%20AI%20Researcher&descSize=30&descAlign=65&fontSize=90&fontAlign=50&fontAlignY=45&animation=twinkling)
