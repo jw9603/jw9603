@@ -1,46 +1,26 @@
-### Hi there 👋
+## Hi there 👋
 
-<span> 💌 Contact : jwjw9603@gmail.com </span> <br>
-<span> 🔎 I have conducted research in Natural Language Processing, Commonsense Reasoning, and Logical Reasoning for Question Answering Systems.
+💌 **Contact**: jwjw9603@gmail.com  
+🔎 **AI research Engineer** working on **LLMs, reasoning, and reliable AI**  
+🌐 **Website**: [jw9603.github.io](https://jw9603.github.io)
 
-<span> 🌱 I am currently interested in the fundamental learning mechanisms of Large Language Models (LLMs), advancing reasoning models to improve their reliability and interpretability, and exploring AI agents that leverage these models for more autonomous and effective problem-solving. </span> <br>
+---
 
-<!-- <span> :rage: 할 수 있다!!!</span> <br> -->
+## Research Interests
+- LLM reasoning
+- Logical fallacy detection
+- Foundation LLM
+- VLM
+- Reinforcement Learning
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jiwon%20Jeong&desc=I%20want%20to%20be%20an%20AI%20Researcher&descSize=30&descAlign=65&fontSize=90&fontAlign=50&fontAlignY=45&animation=twinkling)
-
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jw9603)](https://solved.ac/jw9603)
+---
 
 <!-- [![정지원's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jw9603)](https://github.com/jw9603/github-readme-activity-graph) -->
 
-## 🛠 Tech Stack 🛠
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-007ACC?style=for-the-badge&logo=Python)
-![Pytorch](https://img.shields.io/badge/-Pytorch-46a2f1?style=for-the-badge&logo=Pytorch&logoColor=ffffff)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)<br />
-![KERAS](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
-![CONDA](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)<br />
-![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-## Frequently used programs 
-![MAC OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/jw9603"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/farms/jw9603"
+    width="600"
+    height="300"
+  />
 </a>
