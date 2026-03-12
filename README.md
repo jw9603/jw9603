@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 💌 **Contact**: jwjw9603@gmail.com  
-🔎 **AI Research Engineer** working on **reasoning models, foundation models, and reliable AI**  
+🔎 **AI Research Engineer** working on **reasoning models**, **foundation models**, and **reliable AI systems.**  
 🌐 **Website**: [jw9603.github.io](https://jw9603.github.io)
 
 ---
