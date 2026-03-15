@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, there 👋
 
 💌 **Contact**: jwjw9603@gmail.com  
 🔎 **AI Research Engineer** working on **reasoning models**, **foundation models**, and **reliable AI systems.**  
